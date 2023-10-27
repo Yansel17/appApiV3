@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/yo.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.yanse17.appApiV3"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ba8449c8-d9c3-464e-8dd9-83c60baba09d"
+      }
     }
   }
 }
