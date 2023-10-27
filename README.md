@@ -47,7 +47,7 @@ Muestra una foto de una caja de herramientas, ya que esta aplicación tiene múl
 <img width="194" alt="image" src="https://github.com/Yansel17/appApiV3/assets/111325466/3d99653a-5450-4ac5-ac46-b53fd5a6de35">
 <img width="197" alt="image" src="https://github.com/Yansel17/appApiV3/assets/111325466/2e191f32-1576-47c3-ae6f-0a4af91f1b21">
 
-<img width="194" alt="image" src="https://github.com/Yansel17/appApiV3/assets/111325466/86284ed1-cd6b-4875-ae45-42fca22d6e70">
+<img width="190" alt="image" src="https://github.com/Yansel17/appApiV3/assets/111325466/7529ab94-c05d-48b1-8e8e-8b62ebbd520c">
 <img width="196" alt="image" src="https://github.com/Yansel17/appApiV3/assets/111325466/38604f39-c8ec-42a3-9e5d-7312b6e64b1b">
 
 <img width="193" alt="image" src="https://github.com/Yansel17/appApiV3/assets/111325466/cb13dcd4-e699-4f1c-968a-24a0a636b2b5">
