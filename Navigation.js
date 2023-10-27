@@ -15,6 +15,7 @@ import Edad from "./Screens/Edad";
 import Universidades from "./Screens/Universidades";
 import Clima from "./Screens/Clima";
 import WordPress from "./Screens/WordPress";
+import AcercaDe from "./Screens/AcercaDe";
 
 const Tab = createBottomTabNavigator();
 
@@ -90,6 +91,17 @@ const Navigation = () => {
             tabBarIcon: ({ color, size }) => (
               <Icon name="wordpress" color={color} size={size} />
             ),
+          }}
+        />
+        <Tab.Screen
+          name="Acerca de"
+          component={AcercaDe}
+          options={{
+            title: "Acerca de",
+            tabBarIcon: ({ color, size }) => (
+              <Icon name="user" color={color} size={size} />
+            ),
+            headerShown: false,
           }}
         />
       </Tab.Navigator>

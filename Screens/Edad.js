@@ -70,12 +70,6 @@ class Edad extends Component {
       } else {
         return (
           <View>
-            <View style={styles.containerImg}>
-              <Image
-                source={require("../assets/Edad/anciano.jpg")}
-                style={styles.imagen}
-              />
-            </View>
             <Text margin={10} style={styles.texto}>
               Sin resultados...
             </Text>
